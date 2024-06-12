@@ -1,1 +1,1 @@
-<img src "b.png">
+<img src "bankCard/b.png">
