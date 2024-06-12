@@ -1,2 +1,1 @@
-# b
-b
+<img src "b.png">
